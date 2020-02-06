@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/domesticIndia",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "1a9b085dc28d3750c4f7",
+    "githubSecret": "2783a613064fbc86f8fe590667afeb74d9769e59"
+}
